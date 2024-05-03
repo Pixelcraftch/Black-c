@@ -4,6 +4,8 @@ Black-C is a simple program written in C that makes your computer blank. This is
 # Warning
 This is just a prank program, and I am not responsible for any damage caused by this program.
 
+**Always download from Releases tab**
+
 # How to run
 1. Turn off your antivirus
 2. Download File.exe or File.zip
